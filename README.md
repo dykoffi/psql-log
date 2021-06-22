@@ -34,15 +34,15 @@ psqlLog(searching)
 </p>
 <h1 style="color:#9fa8da;">Contributors</h1>
 
-- KOFFi KOUASSI EDY
-- YAO BINI SAMUEL
-- KOUASSI JONHSON
+- KOFFI Kouassi Edy
+- YAO Bini Samuel
+- JOHNSON Grâce Yénin Edwige
 
 <h1 style="color:#9fa8da;">Licence</h1>
 <p>
 MIT License
 
-Copyright (c) 2021 dykoffi
+Copyright (c) 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
