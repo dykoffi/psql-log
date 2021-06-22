@@ -1,6 +1,6 @@
 {
   "name": "psql-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool that allows consulting the logs recorded with Postgres",
   "main": "index.js",
   "scripts": {
