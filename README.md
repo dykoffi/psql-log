@@ -16,9 +16,9 @@ const psqlLog = require('psql-log')
 
 let searching = {
     path: "/var/log/postgresql/postgresql-13-main.log",
-    user: "test",
-    type: "STATEMENT", //LOG,STATEMENT,HINT,ERROR,FATAL
-    bd: "test"
+    user: "test", //optional
+    type: "STATEMENT", //optional
+    bd: "test" //optional
 }
 
 psqlLog(searching)
@@ -27,6 +27,7 @@ psqlLog(searching)
     })
 
 ```
+
 <h1 style="color:#9fa8da;">Contributors</h1>
 
 - KOFFi KOUASSI EDY
