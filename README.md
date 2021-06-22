@@ -29,7 +29,9 @@ psqlLog(searching)
     })
 
 ```
-
+<p style="font-size:16.5px">
+<b>NB : </b> the path may change depending on the version of Postgres
+</p>
 <h1 style="color:#9fa8da;">Contributors</h1>
 
 - KOFFi KOUASSI EDY
