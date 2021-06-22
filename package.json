@@ -1,15 +1,20 @@
 {
-  "name": "baesien",
+  "name": "psql-log",
   "version": "1.0.0",
-  "description": "ok",
+  "description": "Tool that allows consulting the logs recorded with Postgres",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "psql", "log", "history"
+    "psql",
+    "log",
+    "history"
   ],
   "author": "edy KOFFI",
-  "contributors": ["YAO Bini Samuel", "KOUASSI Jonhson"],
-  "license": "ISC"
+  "contributors": [
+    "YAO Bini Samuel",
+    "KOUASSI Jonhson"
+  ],
+  "license": "MIT"
 }
