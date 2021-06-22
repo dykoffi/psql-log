@@ -1,10 +1,11 @@
 <h1 align="center" style="color:grey;font-family:">PSQL LOG</h1>
 <p style="font-size:18.5px; border-bottom:1px solid grey; padding-bottom:30px" align="justify">
-    psql-log is a tool that allows consulting the logs recorded with Postgres
+    psql-log is a tool that allows consulting the logs recorded with Postgres.
 </p>
 <h1 style="color:#9fa8da;">Intallation</h1>
 
 > yarn add psql-log
+>
 > npm i psql-log
 
 <h1 style="color:#9fa8da;">Usage</h1>
