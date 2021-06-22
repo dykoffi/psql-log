@@ -21,6 +21,8 @@ let searching = {
     bd: "test" //optional
 }
 
+//type : [STATEMENT, ERROR, FATAL, HINT, LOG]
+
 psqlLog(searching)
     .then(data => {
         console.log(data);
