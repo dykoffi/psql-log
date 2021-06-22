@@ -1,0 +1,15 @@
+{
+  "name": "baesien",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "psql", "log", "history"
+  ],
+  "author": "edy KOFFI",
+  "contributors": ["YAO Bini Samuel", "KOUASSI Jonhson"],
+  "license": "ISC"
+}
